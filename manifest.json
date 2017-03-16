@@ -4,7 +4,7 @@
     "default_locale": "en_US",
     "name": "__MSG_appName__",
     "description": "__MSG_appDesc__",
-    "homepage_url": "https://github.com/keikhosro/mailto",
+    "homepage_url": "https://mail.grpassu.fr/owa/#path=/mail",
     "background": {
         "scripts": ["js/background.js"]
     },
